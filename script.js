@@ -5,8 +5,8 @@ const defaultImg = 'images/normal.png';
 const happyImg = 'images/happy.png';
 const triggeredImg = 'images/trigger.png';
 
-const triggerWords = ['work', 'job', 'gay', 'jesus', 'musab', 'boobjoob', 'accountability', 'faggot', 'nigger', 'willow', 'sexism', 'father', 'ai', 'ex', 'boyfriend', 'ableton', 'fl studio', 'recording', 'mp4 to mp3', 'downloading', 'doomscroll', 'bullshit', 'queer', 'rich', 'boys'];
-const happyWords = ['dnd', 'racism', 'racist', 'language', 'culture', 'blender', 'art', 'poor', 'broke', 'music', 'starter loops', 'production', 'girls', 'creativity', 'unemployment', 'laziness', 'adhd', 'ocd', 'autism']
+const triggerWords = ['work', 'job', 'gay', 'jesus', 'musab', 'boobjoob', 'accountability', 'faggot', 'nigger', 'willow', 'sexism', 'father', 'ai', 'ex', 'boyfriend', 'ableton', 'flstudio', 'recording', 'mp4 to mp3', 'downloading', 'doomscroll', 'bullshit', 'queer', 'rich', 'boys', 'arab', 'arabs'];
+const happyWords = ['dnd', 'racism', 'racist', 'language', 'culture', 'blender', 'art', 'poor', 'broke', 'music', 'starter loops', 'production', 'girls', 'creativity', 'unemployment', 'laziness', 'adhd', 'ocd', 'autism', 'cp']
 const arabicRegex = /[\u0600-\u06FF]+/;
 
 input.addEventListener('input', (e) => {
